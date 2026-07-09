@@ -1,0 +1,3 @@
+baseURL = 'https://whaliam.com/'
+locale = 'en-us'
+title = 'Catch all site for random thoughts, reviews, snippets, etc.'
