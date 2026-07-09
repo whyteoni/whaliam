@@ -1,3 +1,93 @@
-baseURL = 'https://whaliam.com/'
-locale = 'en-us'
-title = 'Catch all site for random thoughts, reviews, snippets, etc.'
+baseURL = "https://www.whaliam.com/"
+theme = "risotto-0.5.1"
+locale = "en-us"
+title = "Whaliams Wall"
+author = "Whaliam Wallace"
+copyright = "(C) 2026, All Rights Reserved"
+sectionPagesMenu = "main"
+publishDir = "docs"
+
+[pagination]
+pagerSize = 5
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "dracula"
+
+# [params.about]
+# title = "Whaliams Wall"
+# description = "An assortment of thoughts on various topics. Some review, some guides, some blog posts, and I'm certain there will be some unhinged ramblings."
+# #logo_image = "images/logo.svg"
+
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+
+#[[params.socialLinks]]
+#icon = "fa-brands fa-github"
+#title = "GitHub"
+#url = "https://github.com/joeroe/risotto"
+
+#[[params.socialLinks]]
+#icon = "fa-solid fa-envelope"
+#title = "Email"
+#url = "mailto:example@example.com"
+
+
+[menu]
+
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 10
+
+[taxonomies]
+genre = "genres"
+tag = "tags"
+collection = "collections"
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
+    toc        = true
+
+[privacy]
+
+[privacy.vimeo]
+    disabled = false
+    simple = true
+
+[privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+[privacy.instagram]
+    disabled = false
+    simple = true
+
+[privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.x]
+    disableInlineCSS = true
+

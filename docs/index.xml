@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Whaliam&#39;s Wall on Whaliams Wall</title>
+		<link>https://www.whaliam.com/</link>
+		<description>Recent content in Whaliam&#39;s Wall on Whaliams Wall</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>(C) 2026, All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Sat, 11 Jul 2026 08:12:38 -0700</lastBuildDate>
+		
+			<atom:link href="https://www.whaliam.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Project: Majel</title>
+				<link>https://www.whaliam.com/projects/project-majel/</link>
+				<pubDate>Sat, 11 Jul 2026 08:12:38 -0700</pubDate>
+				<guid>https://www.whaliam.com/projects/project-majel/</guid>
+				<description>&lt;p&gt;Majel Barrett (Rodenberry) was a pillar of Star Trek, having been in the original pilot, given a new role for the series, and then going on to make appearances in both The Next Generation and Deep Space 9 while also voicing the standard Starfleet computer. It is as tribute to her I name this &lt;em&gt;Project: Majel&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-project-majel&#34;&gt;What is Project: Majel?&lt;/h2&gt;&#xA;&lt;p&gt;Everyone who grew up watching Star Trek will remember the voice interactions with the computer, and how the computer was able to flawlessly understand what was being said and know what needed to be done, and then carry out the actions required. That is a high bar to aim for, but climbing towards it I hope to still learn a great deal, and to provide actual value to my household and the growing community of Local LLM enthusiasts.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ghost in the Shell (2026)</title>
+				<link>https://www.whaliam.com/recommendations/ghost-in-the-shell-2026/</link>
+				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
+				<guid>https://www.whaliam.com/recommendations/ghost-in-the-shell-2026/</guid>
+				<description>&lt;p&gt;Oh man, I had really high hopes from the trailer. I &lt;em&gt;had&lt;/em&gt; high hopes.&lt;/p&gt;&#xA;&lt;p&gt;The opening text went by at &lt;em&gt;blink and yuou miss it&lt;/em&gt; speed. Luckily, it was faithfuilly pulled from the original manga, which was sitting on the bookshelf next to me. And that was the tone throughout. On one had you get a highly faithful rendering of the source material, while simultaneously it is being warped in odd ways that I did not care for. Muted color space and textures on a gritty realistic background, but saturated and vibrant color on characters who art style would seemlessly ramp from 1990s anime to (what I think of as) &lt;em&gt;Rick and Morty&lt;/em&gt; and back again. It was jarring and made it impossible to fully sit in the material and enjoy the show.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>https://www.whaliam.com/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://www.whaliam.com/about/</guid>
+				<description>&lt;p&gt;This is a collections of thought, reviews, code snippets, guides, ramblings, ravings, and recommendations from the mind of Whaliam Wallace.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><title>Project: Majel &ndash; Whaliams Wall</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://www.whaliam.com/css/palettes/dracula.css">
+<link rel="stylesheet" href="https://www.whaliam.com/css/risotto.css">
+<link rel="stylesheet" href="https://www.whaliam.com/css/custom.css">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="Project: Majel &ndash; Whaliams Wall" />
+<meta property="og:url" content="https://www.whaliam.com/projects/project-majel/" />
+
+  
+
+<meta property="og:locale" content="en-us" />
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+      <li class="nomarker"><h1 class="page__logo"><a href="https://www.whaliam.com/" class="page__logo-inner">Whaliams Wall</a></h1></li>
+    
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://www.whaliam.com/blog/" title="Blog">Blog</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item active" href="https://www.whaliam.com/projects/" title="Projects">Projects</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://www.whaliam.com/recommendations/" title="Recommendations">Recommendations</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>Project: Majel</h1>
+    </header>
+    <div class="content__body">
+        <p>Majel Barrett (Rodenberry) was a pillar of Star Trek, having been in the original pilot, given a new role for the series, and then going on to make appearances in both The Next Generation and Deep Space 9 while also voicing the standard Starfleet computer. It is as tribute to her I name this <em>Project: Majel</em>.</p>
+<h2 id="what-is-project-majel">What is Project: Majel?</h2>
+<p>Everyone who grew up watching Star Trek will remember the voice interactions with the computer, and how the computer was able to flawlessly understand what was being said and know what needed to be done, and then carry out the actions required. That is a high bar to aim for, but climbing towards it I hope to still learn a great deal, and to provide actual value to my household and the growing community of Local LLM enthusiasts.</p>
+<p>The core of the project is a <code>compose</code> file I am using to orchestrate the various containers and services I am cobbling together to create a worthwhile local LLM stack. I will also document per service modifications and share any other pertinant information so that (hopefully) others will be able to shortcut their own local deployment.</p>
+<p>Currently, the container stack constists of:</p>
+<ul>
+<li>Ollama: LLM server for all other services.</li>
+<li>Open WebUI: My primary &ldquo;chat&rdquo; interface and control system for Ollama.</li>
+<li>Searxng: A meta search service.</li>
+<li>Perplexica: A research tool that uses Searxng to gather information it will parse to answer specific questions posed to it.</li>
+</ul>
+<p>I am also running:</p>
+<ul>
+<li>Hermes Agent: Eventually I plan to use this to make Majel accessible remotely.</li>
+<li>Nginx: As many services as it makes sense to do so far I am proxying access to through Nginx.</li>
+<li>Podman: This is my prefered container runtime, though it is 90% a drop-in-replacement for Docker.</li>
+<li>Ubuntu: I am running all of this on an Ubuntu LTS server that is also functioning as my daily driver (so it has a full UI, Steam, Jellyfin server, etc).</li>
+</ul>
+
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+
+<ul class="aside__social-links">
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    
+    
+        <p>
+            
+            2026-07-11
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p class="copyright">(C) 2026, All Rights Reserved</p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>

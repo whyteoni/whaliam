@@ -1,0 +1,12 @@
+#! /bin/bash
+
+FILENAME=$(date +%s)
+
+if ! [[ -z "${1}" ]]; then
+    FILENAME="${FILENAME}-$(echo "$@" | tr ' ' '-')"
+fi
+
+FULL_PATH="blog/${FILENAME}.md"
+
+hugo new ${FULL_PATH} --force
+sed -ri -e "s/(title = ')[0-9]+ /\1/g" content/${FULL_PATH}
