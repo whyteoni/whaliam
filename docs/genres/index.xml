@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Genres on Whaliams Wall</title>
-		<link>https://www.whaliam.com/genres/</link>
+		<link>http://localhost:1313/genres/</link>
 		<description>Recent content in Genres on Whaliams Wall</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,26 +14,26 @@
 		
 			<lastBuildDate>Fri, 10 Jul 2026 12:55:11 -0700</lastBuildDate>
 		
-			<atom:link href="https://www.whaliam.com/genres/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/genres/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Action</title>
-				<link>https://www.whaliam.com/genres/action/</link>
+				<link>http://localhost:1313/genres/action/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>https://www.whaliam.com/genres/action/</guid>
+				<guid>http://localhost:1313/genres/action/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Remake</title>
-				<link>https://www.whaliam.com/genres/remake/</link>
+				<link>http://localhost:1313/genres/remake/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>https://www.whaliam.com/genres/remake/</guid>
+				<guid>http://localhost:1313/genres/remake/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sci-Fi</title>
-				<link>https://www.whaliam.com/genres/sci-fi/</link>
+				<link>http://localhost:1313/genres/sci-fi/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>https://www.whaliam.com/genres/sci-fi/</guid>
+				<guid>http://localhost:1313/genres/sci-fi/</guid>
 				<description></description>
 			</item>
 	</channel>

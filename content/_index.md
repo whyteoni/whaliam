@@ -1,13 +1,6 @@
 +++
 title = "Whaliam's Wall"
+category = "index"
 +++
 
-Whaliam's Wall, a random collection of pages because I just needed a place to put them all.
-
-Things this site will have:
-
-- Reviews
-- Ramblings
-- Ravings
-
-But for now I am just getting started and still need to figure out the basics of how to make this thing more than a shit show.
+Whaliam's Wall, a random collection of pages because I just needed a place to put them all. While I am still getting the basics worked out, I do have _some_ stuff posted.

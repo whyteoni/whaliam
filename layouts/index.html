@@ -1,0 +1,15 @@
+{{ define "main" }}
+    {{ .Content }}
+    <h2>Latest Posts</h2>
+
+    <ul>
+    {{ range first 10 (sort .Site.RegularPages "Date" "desc") }}
+    <li>
+        <span>[{{ .Section }}]</span>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <small>{{ .Date.Format "2006-01-02" }}</small>
+    </li>
+    {{ end }}
+    </ul>
+{{ end }}
+
