@@ -11,5 +11,15 @@
     </li>
     {{ end }}
     </ul>
+
+    <h2>Popular Tags</h2>
+
+    <ul>
+    {{ range $name, $_ := $.Site.Taxonomies.tags }}
+    <li>
+        <a href="{{ "/tags/" | relLangURL }}{{ $name }}" class="tag-link">{{ $name }} ({{ .Count }})</a>
+    </li>
+    {{ end }}
+    </ul>
 {{ end }}
 

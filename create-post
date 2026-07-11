@@ -10,3 +10,4 @@ FULL_PATH="blog/${FILENAME}.md"
 
 hugo new ${FULL_PATH} --force
 sed -ri -e "s/(title = ')[0-9]+ /\1/g" content/${FULL_PATH}
+code ${FULL_PATH}

@@ -2,7 +2,8 @@
 date = '2026-07-11T08:12:38-07:00'
 draft = false
 title = 'Project: Majel'
-tags = ["project-majel","locall-llm","contrainer"]
+tags = ["project-majel","locall-llm","container"]
+category = "project"
 +++
 
 Majel Barrett (Rodenberry) was a pillar of Star Trek, having been in the original pilot, given a new role for the series, and then going on to make appearances in both The Next Generation and Deep Space 9 while also voicing the standard Starfleet computer. It is as tribute to her I name this _Project: Majel_.

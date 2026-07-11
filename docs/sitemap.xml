@@ -2,73 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/contrainer/</loc>
+    <loc>https://www.whaliam.com/tags/book/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/clifford-stoll/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/genres/cyber-security/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/cyber-security/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/cybersec-reading-list/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/genres/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/genres/non-fiction/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/recommendations/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/recommendations/the-cuckoos-egg/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/</loc>
+    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/blog/</loc>
+    <lastmod>2026-07-19T10:41:05-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/blog/1784482865-cyber-security-reading-list/</loc>
+    <lastmod>2026-07-19T10:41:05-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/milestone/</loc>
+    <lastmod>2026-07-19T10:41:05-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/container/</loc>
     <lastmod>2026-07-11T08:12:38-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/locall-llm/</loc>
+    <loc>https://www.whaliam.com/tags/locall-llm/</loc>
     <lastmod>2026-07-11T08:12:38-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/project-majel/</loc>
+    <loc>https://www.whaliam.com/tags/project-majel/</loc>
     <lastmod>2026-07-11T08:12:38-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-majel/</loc>
+    <loc>https://www.whaliam.com/projects/project-majel/</loc>
     <lastmod>2026-07-11T08:12:38-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://www.whaliam.com/projects/</loc>
     <lastmod>2026-07-11T08:12:38-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-11T08:12:38-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-11T08:12:38-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://www.whaliam.com/blog/1783715513-minimum-viable-product/</loc>
     <lastmod>2026-07-10T13:31:53-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2026-07-10T13:31:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/1783715513-minimum-viable-product/</loc>
-    <lastmod>2026-07-10T13:31:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/genres/action/</loc>
+    <loc>https://www.whaliam.com/genres/action/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/amazon/</loc>
+    <loc>https://www.whaliam.com/tags/amazon-prime/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anime/</loc>
+    <loc>https://www.whaliam.com/genres/anime/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/collections/</loc>
+    <loc>https://www.whaliam.com/tags/anime/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/genres/</loc>
+    <loc>https://www.whaliam.com/collections/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recommendations/ghost-in-the-shell-2026/</loc>
+    <loc>https://www.whaliam.com/recommendations/ghost-in-the-shell-2026/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/collections/ghost-in-the-shell/</loc>
+    <loc>https://www.whaliam.com/collections/ghost-in-the-shell/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recommendations/</loc>
+    <loc>https://www.whaliam.com/tags/remake/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/genres/remake/</loc>
+    <loc>https://www.whaliam.com/genres/sci-fi/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/remake/</loc>
+    <loc>https://www.whaliam.com/tags/sci-fi/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/genres/sci-fi/</loc>
-    <lastmod>2026-07-10T12:55:11-07:00</lastmod>
+    <loc>https://www.whaliam.com/about/</loc>
+    <lastmod>2026-07-12T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sci-fi/</loc>
-    <lastmod>2026-07-10T12:55:11-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-07-10T00:00:00-07:00</lastmod>
+    <loc>https://www.whaliam.com/categories/</loc>
   </url>
 </urlset>

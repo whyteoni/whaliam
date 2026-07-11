@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Whaliams Wall</title>
-		<link>http://localhost:1313/tags/</link>
+		<link>https://www.whaliam.com/tags/</link>
 		<description>Recent content in Tags on Whaliams Wall</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,63 +12,91 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Sat, 11 Jul 2026 08:12:38 -0700</lastBuildDate>
+			<lastBuildDate>Tue, 21 Jul 2026 14:29:42 -0700</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.whaliam.com/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Contrainer</title>
-				<link>http://localhost:1313/tags/contrainer/</link>
+				<title>Book</title>
+				<link>https://www.whaliam.com/tags/book/</link>
+				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/book/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Clifford-Stoll</title>
+				<link>https://www.whaliam.com/tags/clifford-stoll/</link>
+				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/clifford-stoll/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cyber-Security</title>
+				<link>https://www.whaliam.com/tags/cyber-security/</link>
+				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/cyber-security/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cybersec-Reading-List</title>
+				<link>https://www.whaliam.com/tags/cybersec-reading-list/</link>
+				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/cybersec-reading-list/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Milestone</title>
+				<link>https://www.whaliam.com/tags/milestone/</link>
+				<pubDate>Sun, 19 Jul 2026 10:41:05 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/milestone/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Container</title>
+				<link>https://www.whaliam.com/tags/container/</link>
 				<pubDate>Sat, 11 Jul 2026 08:12:38 -0700</pubDate>
-				<guid>http://localhost:1313/tags/contrainer/</guid>
+				<guid>https://www.whaliam.com/tags/container/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Locall-Llm</title>
-				<link>http://localhost:1313/tags/locall-llm/</link>
+				<link>https://www.whaliam.com/tags/locall-llm/</link>
 				<pubDate>Sat, 11 Jul 2026 08:12:38 -0700</pubDate>
-				<guid>http://localhost:1313/tags/locall-llm/</guid>
+				<guid>https://www.whaliam.com/tags/locall-llm/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Project-Majel</title>
-				<link>http://localhost:1313/tags/project-majel/</link>
+				<link>https://www.whaliam.com/tags/project-majel/</link>
 				<pubDate>Sat, 11 Jul 2026 08:12:38 -0700</pubDate>
-				<guid>http://localhost:1313/tags/project-majel/</guid>
+				<guid>https://www.whaliam.com/tags/project-majel/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Blog</title>
-				<link>http://localhost:1313/tags/blog/</link>
-				<pubDate>Fri, 10 Jul 2026 13:31:53 -0700</pubDate>
-				<guid>http://localhost:1313/tags/blog/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Amazon</title>
-				<link>http://localhost:1313/tags/amazon/</link>
+				<title>Amazon-Prime</title>
+				<link>https://www.whaliam.com/tags/amazon-prime/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>http://localhost:1313/tags/amazon/</guid>
+				<guid>https://www.whaliam.com/tags/amazon-prime/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Anime</title>
-				<link>http://localhost:1313/tags/anime/</link>
+				<link>https://www.whaliam.com/tags/anime/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>http://localhost:1313/tags/anime/</guid>
+				<guid>https://www.whaliam.com/tags/anime/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Remake</title>
-				<link>http://localhost:1313/tags/remake/</link>
+				<link>https://www.whaliam.com/tags/remake/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>http://localhost:1313/tags/remake/</guid>
+				<guid>https://www.whaliam.com/tags/remake/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sci-Fi</title>
-				<link>http://localhost:1313/tags/sci-fi/</link>
+				<link>https://www.whaliam.com/tags/sci-fi/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>http://localhost:1313/tags/sci-fi/</guid>
+				<guid>https://www.whaliam.com/tags/sci-fi/</guid>
 				<description></description>
 			</item>
 	</channel>

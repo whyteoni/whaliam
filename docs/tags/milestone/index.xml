@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Milestone on Whaliams Wall</title>
+		<link>https://www.whaliam.com/tags/milestone/</link>
+		<description>Recent content in Milestone on Whaliams Wall</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>(C) 2026, All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Sun, 19 Jul 2026 10:41:05 -0700</lastBuildDate>
+		
+			<atom:link href="https://www.whaliam.com/tags/milestone/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cyber Security Reading List</title>
+				<link>https://www.whaliam.com/blog/1784482865-cyber-security-reading-list/</link>
+				<pubDate>Sun, 19 Jul 2026 10:41:05 -0700</pubDate>
+				<guid>https://www.whaliam.com/blog/1784482865-cyber-security-reading-list/</guid>
+				<description>&lt;p&gt;One of the primary reasons I ever wanted to start a website was to create lists of recommendations, specifically for information technology and cybersecurity material. Well, I have a website now, so it&amp;rsquo;s time I got to work on that. All items, regardless of medium, will get tagged with &lt;code&gt;cybersec_reading_list&lt;/code&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Minimum Viable Product</title>
+				<link>https://www.whaliam.com/blog/1783715513-minimum-viable-product/</link>
+				<pubDate>Fri, 10 Jul 2026 13:31:53 -0700</pubDate>
+				<guid>https://www.whaliam.com/blog/1783715513-minimum-viable-product/</guid>
+				<description>&lt;p&gt;Well, this is my  first post and as the title suggests it is really just something to have something. I am working on stuff like &lt;a href=&#34;https://gohugo.io/content-management/taxonomies/#article&#34;&gt;taxonomies&lt;/a&gt;, &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#article&#34;&gt;frontmatter&lt;/a&gt;, and the like. I don&amp;rsquo;t really want th emain focus of this site to be blog posts, and really certain I have very much to say in a diary format that I 1. think other people will want to read, and 2. want to share publicly. Maybe that will change and I&amp;rsquo;ll start considering myself an &lt;em&gt;influencer&lt;/em&gt;&amp;hellip; yeah, probably not.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

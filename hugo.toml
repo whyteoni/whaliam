@@ -49,6 +49,7 @@ palette = "dracula"
 genre = "genres"
 tag = "tags"
 collection = "collections"
+category = "categories"
 
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]

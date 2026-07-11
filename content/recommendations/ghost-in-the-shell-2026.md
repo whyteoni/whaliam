@@ -2,9 +2,10 @@
 date = '2026-07-10T12:55:11-07:00'
 draft = false
 title = 'Ghost in the Shell (2026)'
-tags = ["sci-fi","anime","remake","amazon"]
-genres = ["sci-fi","action","remake"]
+tags = ["sci-fi","anime","remake","amazon-prime"]
+genres = ["sci-fi","action","anime"]
 collections = ["ghost-in-the-shell"]
+category = "recommendation"
 +++
 
 Oh man, I had really high hopes from the trailer. I _had_ high hopes.

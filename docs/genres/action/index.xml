@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Action on Whaliams Wall</title>
-		<link>http://localhost:1313/genres/action/</link>
+		<link>https://www.whaliam.com/genres/action/</link>
 		<description>Recent content in Action on Whaliams Wall</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Fri, 10 Jul 2026 12:55:11 -0700</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/genres/action/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.whaliam.com/genres/action/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ghost in the Shell (2026)</title>
-				<link>http://localhost:1313/recommendations/ghost-in-the-shell-2026/</link>
+				<link>https://www.whaliam.com/recommendations/ghost-in-the-shell-2026/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>http://localhost:1313/recommendations/ghost-in-the-shell-2026/</guid>
+				<guid>https://www.whaliam.com/recommendations/ghost-in-the-shell-2026/</guid>
 				<description>&lt;p&gt;Oh man, I had really high hopes from the trailer. I &lt;em&gt;had&lt;/em&gt; high hopes.&lt;/p&gt;&#xA;&lt;p&gt;The opening text went by at &lt;em&gt;blink and yuou miss it&lt;/em&gt; speed. Luckily, it was faithfuilly pulled from the original manga, which was sitting on the bookshelf next to me. And that was the tone throughout. On one had you get a highly faithful rendering of the source material, while simultaneously it is being warped in odd ways that I did not care for. Muted color space and textures on a gritty realistic background, but saturated and vibrant color on characters who art style would seemlessly ramp from 1990s anime to (what I think of as) &lt;em&gt;Rick and Morty&lt;/em&gt; and back again. It was jarring and made it impossible to fully sit in the material and enjoy the show.&lt;/p&gt;</description>
 			</item>
 	</channel>

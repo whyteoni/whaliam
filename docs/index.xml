@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Whaliam&#39;s Wall on Whaliams Wall</title>
-		<link>http://localhost:1313/</link>
+		<link>https://www.whaliam.com/</link>
 		<description>Recent content in Whaliam&#39;s Wall on Whaliams Wall</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,36 +12,50 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Sat, 11 Jul 2026 08:12:38 -0700</lastBuildDate>
+			<lastBuildDate>Tue, 21 Jul 2026 14:29:42 -0700</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.whaliam.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Cuckoos Egg</title>
+				<link>https://www.whaliam.com/recommendations/the-cuckoos-egg/</link>
+				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
+				<guid>https://www.whaliam.com/recommendations/the-cuckoos-egg/</guid>
+				<description>&lt;p&gt;&lt;em&gt;The Cuckoo&amp;rsquo;s Egg&lt;/em&gt; is the autobiographical account of an astronhomy student who&amp;rsquo;s grant ran out so he got a job in the university&amp;rsquo;s IT department. A 75 cent discrepancy in the accounting software would lead him down a rabbit hole of hackers, military and national security systems, and academia. This all being told from the author&amp;rsquo;s experiences it is a fascinating tale of the very real world of cyber security in the twilight years of the Cold War.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cyber Security Reading List</title>
+				<link>https://www.whaliam.com/blog/1784482865-cyber-security-reading-list/</link>
+				<pubDate>Sun, 19 Jul 2026 10:41:05 -0700</pubDate>
+				<guid>https://www.whaliam.com/blog/1784482865-cyber-security-reading-list/</guid>
+				<description>&lt;p&gt;One of the primary reasons I ever wanted to start a website was to create lists of recommendations, specifically for information technology and cybersecurity material. Well, I have a website now, so it&amp;rsquo;s time I got to work on that. All items, regardless of medium, will get tagged with &lt;code&gt;cybersec_reading_list&lt;/code&gt;.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Project: Majel</title>
-				<link>http://localhost:1313/projects/project-majel/</link>
+				<link>https://www.whaliam.com/projects/project-majel/</link>
 				<pubDate>Sat, 11 Jul 2026 08:12:38 -0700</pubDate>
-				<guid>http://localhost:1313/projects/project-majel/</guid>
+				<guid>https://www.whaliam.com/projects/project-majel/</guid>
 				<description>&lt;p&gt;Majel Barrett (Rodenberry) was a pillar of Star Trek, having been in the original pilot, given a new role for the series, and then going on to make appearances in both The Next Generation and Deep Space 9 while also voicing the standard Starfleet computer. It is as tribute to her I name this &lt;em&gt;Project: Majel&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-project-majel&#34;&gt;What is Project: Majel?&lt;/h2&gt;&#xA;&lt;p&gt;Everyone who grew up watching Star Trek will remember the voice interactions with the computer, and how the computer was able to flawlessly understand what was being said and know what needed to be done, and then carry out the actions required. That is a high bar to aim for, but climbing towards it I hope to still learn a great deal, and to provide actual value to my household and the growing community of Local LLM enthusiasts.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Minimum Viable Product</title>
-				<link>http://localhost:1313/blog/1783715513-minimum-viable-product/</link>
+				<link>https://www.whaliam.com/blog/1783715513-minimum-viable-product/</link>
 				<pubDate>Fri, 10 Jul 2026 13:31:53 -0700</pubDate>
-				<guid>http://localhost:1313/blog/1783715513-minimum-viable-product/</guid>
+				<guid>https://www.whaliam.com/blog/1783715513-minimum-viable-product/</guid>
 				<description>&lt;p&gt;Well, this is my  first post and as the title suggests it is really just something to have something. I am working on stuff like &lt;a href=&#34;https://gohugo.io/content-management/taxonomies/#article&#34;&gt;taxonomies&lt;/a&gt;, &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#article&#34;&gt;frontmatter&lt;/a&gt;, and the like. I don&amp;rsquo;t really want th emain focus of this site to be blog posts, and really certain I have very much to say in a diary format that I 1. think other people will want to read, and 2. want to share publicly. Maybe that will change and I&amp;rsquo;ll start considering myself an &lt;em&gt;influencer&lt;/em&gt;&amp;hellip; yeah, probably not.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ghost in the Shell (2026)</title>
-				<link>http://localhost:1313/recommendations/ghost-in-the-shell-2026/</link>
+				<link>https://www.whaliam.com/recommendations/ghost-in-the-shell-2026/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>http://localhost:1313/recommendations/ghost-in-the-shell-2026/</guid>
+				<guid>https://www.whaliam.com/recommendations/ghost-in-the-shell-2026/</guid>
 				<description>&lt;p&gt;Oh man, I had really high hopes from the trailer. I &lt;em&gt;had&lt;/em&gt; high hopes.&lt;/p&gt;&#xA;&lt;p&gt;The opening text went by at &lt;em&gt;blink and yuou miss it&lt;/em&gt; speed. Luckily, it was faithfuilly pulled from the original manga, which was sitting on the bookshelf next to me. And that was the tone throughout. On one had you get a highly faithful rendering of the source material, while simultaneously it is being warped in odd ways that I did not care for. Muted color space and textures on a gritty realistic background, but saturated and vibrant color on characters who art style would seemlessly ramp from 1990s anime to (what I think of as) &lt;em&gt;Rick and Morty&lt;/em&gt; and back again. It was jarring and made it impossible to fully sit in the material and enjoy the show.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About</title>
-				<link>http://localhost:1313/about/</link>
+				<link>https://www.whaliam.com/about/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;This is a collections of thought, reviews, code snippets, guides, ramblings, ravings, and recommendations from the mind of Whaliam Wallace.&lt;/p&gt;</description>
+				<guid>https://www.whaliam.com/about/</guid>
+				<description>&lt;p&gt;This is a collections of thought, reviews, code snippets, guides, ramblings, ravings, and recommendations from the mind of Whaliam Wallace.&lt;/p&gt;&#xA;&lt;h2 id=&#34;whowhat-is-a-whaliam-wallace&#34;&gt;Who/What is a Whaliam Wallace?&lt;/h2&gt;&#xA;&lt;p&gt;Many years back now, somewhere in the early 2010s, I had a thought pop in my head. This was a time of vampires, werewolves, and increasingly other were-beasts. &lt;em&gt;Underwold&lt;/em&gt; and &lt;em&gt;True Blood&lt;/em&gt; had not quite given way to &lt;em&gt;The Walking Dead&lt;/em&gt; and &lt;em&gt;Game of Thrones&lt;/em&gt; or &lt;em&gt;Stranger Things&lt;/em&gt;. The increasing pantheon of were-beasts (werecats, werebears, and so on) lead to an obvious fascination, &amp;ldquo;What other creatures could be given the &lt;em&gt;were-&lt;/em&gt; treatment?&amp;rdquo; And in the tempest of that context I had an image resolve in my head: a werewhale. More specifically I had an image of a were-humpback-whale (becuase &lt;em&gt;Star Trek 4: A Voyage Home&lt;/em&gt; was my go to movie as a kid). It was in the ocean, racing to the shore, trying to outrun the sun as it crested the horizon behind it. The werewhale had already begun to change, and his powerful fluke had returned to the naked legs of a man, massively disproportionate to the rest of the body. He wasn&amp;rsquo;t going to make it.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
