@@ -6,4 +6,4 @@ tags = ["milestone"]
 category = "blog"
 +++
 
-One of the primary reasons I ever wanted to start a website was to create lists of recommendations, specifically for information technology and cybersecurity material. Well, I have a website now, so it's time I got to work on that. All items, regardless of medium, will get tagged with `cybersec_reading_list`.
+One of the primary reasons I ever wanted to start a website was to create lists of recommendations, specifically for information technology and cybersecurity material. Well, I have a website now, so it's time I got to work on that. All items, regardless of medium, will get tagged with [#cybersec-reading-list](/tags/cybersec-reading-list)
