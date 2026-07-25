@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><title>Using SearXNG as You Default Search &ndash; Whaliams Wall</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<link rel="stylesheet" href="https://www.whaliam.com/css/palettes/dracula.css">
+<link rel="stylesheet" href="https://www.whaliam.com/css/risotto.css">
+<link rel="stylesheet" href="https://www.whaliam.com/css/custom.css">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="Using SearXNG as You Default Search &ndash; Whaliams Wall" />
+<meta property="og:url" content="https://www.whaliam.com/projects/default-search/" />
+
+  
+
+<meta property="og:locale" content="en-us" />
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+      <li class="nomarker"><h1 class="page__logo"><a href="https://www.whaliam.com/" class="page__logo-inner">Whaliams Wall</a></h1></li>
+    
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://www.whaliam.com/blog/" title="Blog">Blog</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item active" href="https://www.whaliam.com/projects/" title="Projects">Projects</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://www.whaliam.com/recommendations/" title="Recommendations">Recommendations</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>Using SearXNG as You Default Search</h1>
+    </header>
+    <div class="content__body">
+        <p><a href="https://github.com/searxng/searxng">SearXNG</a> is a meta search engine that you run locally. It provides very fast results without a lot of fluff and tracking. You can fine-tune it to only use certain sources, search certain material types, skip social media, or even exclusively search social media. It is a fantastic tool and something anyone with the inclination and resources should consider setting up.</p>
+<h2 id="setting-up-the-service">Setting up the Service</h2>
+<p>My setup is a lot more complicated than it absolutely has to be. But, you wouldn&rsquo;t be here if you wanted the generic guide.</p>
+<h3 id="the-container">The Container</h3>
+<p>I&rsquo;m using a container and the <a href="https://podman.io/">podman</a> runtime (a Docker alternative that has several advantages and is my go to solution). I won&rsquo;t go into details about getting your container runtime functional in this guide, though I plan to at some point in the future show how I have my setup. I am also running <a href="https://docs.podman.io/en/latest/markdown/podman-compose.1.html">podman-compose</a> to orchestrate my containers and help make management easier. Here&rsquo;s what that looks like:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>  <span style="color:#f92672">searxng-core</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">searxng-core</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">searxng/searxng:latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">always</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;8080:8080&#34;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./volumes/searxng/core-config/:/etc/searxng/:Z</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./volumes/searxng/core-data:/var/cache/searxng/</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">majel</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">searxng-valkey</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">searxng-valkey</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">valkey/valkey:9-alpine</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">command</span>: <span style="color:#ae81ff">valkey-server --save 30 1 --loglevel warning</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">always</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./volumes/searxng/valkey-data:/data/</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">majel</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">networks</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">majel</span>: {}
+</span></span></code></pre></div><p>In my case I am standardizing my compose file to use directly mounted folders, instead of runtime administered volumes. I have trust issues.</p>
+<p>Also, I am explicitly using the <code>majel</code> network to keep all <a href="/tags/project-majel">Project: Majel</a> components together. I am not 100% certain this is necessary, but it works so I have not tested it further.</p>
+<h2 id="accessing-searxng">Accessing SearXNG</h2>
+<p>You can simply access this service now by navigating to <code>http://localhost:8080</code> and running your search. For other systems on your network, assuming you open the correct firewall ports, they would go to <code>http://&lt;your IP address&gt;:8080</code>. I am particular, and would not accept something so crude, especially knowing it would be a turn off to other denizens of my network (read: <em>family members</em>).</p>
+<h3 id="dnsmasq">DNSMasq</h3>
+<p>I will not go into all the arcane things I did to make this service work. Suffice it to say, for what lies ahead you need to have your local DNS point at your server, which should have either a static address, or at least a way to dynamically update DNS. It is for this reason I chose to use <a href="https://wiki.archlinux.org/title/Dnsmasq">DNSMasq</a>, though this Faustian bargain has taken many hours from my life.</p>
+<h3 id="nginx-proxy">Nginx Proxy</h3>
+<p>Finally, I created an Nginx proxy with a self signed certificate. In combination with the above DNS configuration I am able to use human-friendly URLs. The <code>servername</code> passed to the proxy is used to direct the traffic internally. This also means I do not need to expose those ports to the rest of my network. Everyone wins.</p>
+<p>I am using this concept with all of my local services, and keep each endpoint/server as a separate config file under <code>sites-available</code>. Here&rsquo;s my config for SearXNG:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-nginx" data-lang="nginx"><span style="display:flex;"><span><span style="color:#66d9ef">server</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">listen</span> <span style="color:#ae81ff">80</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">listen</span> <span style="color:#e6db74">[::]:80</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">server_name</span> <span style="color:#e6db74">searxng.local</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">return</span> <span style="color:#ae81ff">301</span> <span style="color:#e6db74">https://</span>$host$request_uri;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">server</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">listen</span> <span style="color:#ae81ff">443</span> <span style="color:#e6db74">ssl</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">server_name</span> <span style="color:#e6db74">searxng.local</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ssl_certificate</span>     <span style="color:#e6db74">/etc/nginx/cert/local.crt</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ssl_certificate_key</span> <span style="color:#e6db74">/etc/nginx/cert/local.key</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">location</span> <span style="color:#e6db74">/</span> {
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">proxy_pass</span> <span style="color:#e6db74">http://localhost:8080</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">proxy_set_header</span>    <span style="color:#e6db74">Host</span>    $host;
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">proxy_set_header</span>    <span style="color:#e6db74">X-Forwarded-For</span> $proxy_add_x_forwarded_for;
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">proxy_set_header</span>    <span style="color:#e6db74">X-Forwarded-Proto</span>       $scheme;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h2 id="setting-your-default-search-engine">Setting Your Default Search Engine</h2>
+<p>In Firefox, and I assume something very similar for other browsers, go to <code>Settings</code> -&gt; <code>Search</code> -&gt; <code>Add Search Engine</code>. Enter in the following information:</p>
+<ul>
+<li>Name: <code>SearXNG</code></li>
+<li>URL: <code>https://searxng.local/search?q=%s</code></li>
+<li>Keyword: <code>@xng</code></li>
+</ul>
+<p>I decided to make this my default search engine and have not looked back.</p>
+
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+
+<ul class="aside__social-links">
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    
+    
+        <p>
+            
+            2026-07-25
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p class="copyright">(C) 2026, All Rights Reserved</p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+</html>

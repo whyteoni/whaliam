@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.whaliam.com/tags/homelab/</loc>
+    <lastmod>2026-07-25T07:26:58-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/project-majel/</loc>
+    <lastmod>2026-07-25T07:26:58-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/projects/</loc>
+    <lastmod>2026-07-25T07:26:58-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/search/</loc>
+    <lastmod>2026-07-25T07:26:58-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/tags/</loc>
+    <lastmod>2026-07-25T07:26:58-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/projects/default-search/</loc>
+    <lastmod>2026-07-25T07:26:58-07:00</lastmod>
+  </url><url>
+    <loc>https://www.whaliam.com/</loc>
+    <lastmod>2026-07-25T07:26:58-07:00</lastmod>
+  </url><url>
     <loc>https://www.whaliam.com/tags/book/</loc>
     <lastmod>2026-07-21T14:29:42-07:00</lastmod>
   </url><url>
@@ -26,13 +47,7 @@
     <loc>https://www.whaliam.com/recommendations/</loc>
     <lastmod>2026-07-21T14:29:42-07:00</lastmod>
   </url><url>
-    <loc>https://www.whaliam.com/tags/</loc>
-    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
-  </url><url>
     <loc>https://www.whaliam.com/recommendations/the-cuckoos-egg/</loc>
-    <lastmod>2026-07-21T14:29:42-07:00</lastmod>
-  </url><url>
-    <loc>https://www.whaliam.com/</loc>
     <lastmod>2026-07-21T14:29:42-07:00</lastmod>
   </url><url>
     <loc>https://www.whaliam.com/blog/</loc>
@@ -50,13 +65,7 @@
     <loc>https://www.whaliam.com/tags/locall-llm/</loc>
     <lastmod>2026-07-11T08:12:38-07:00</lastmod>
   </url><url>
-    <loc>https://www.whaliam.com/tags/project-majel/</loc>
-    <lastmod>2026-07-11T08:12:38-07:00</lastmod>
-  </url><url>
     <loc>https://www.whaliam.com/projects/project-majel/</loc>
-    <lastmod>2026-07-11T08:12:38-07:00</lastmod>
-  </url><url>
-    <loc>https://www.whaliam.com/projects/</loc>
     <lastmod>2026-07-11T08:12:38-07:00</lastmod>
   </url><url>
     <loc>https://www.whaliam.com/blog/1783715513-minimum-viable-product/</loc>
@@ -91,9 +100,6 @@
   </url><url>
     <loc>https://www.whaliam.com/tags/sci-fi/</loc>
     <lastmod>2026-07-10T12:55:11-07:00</lastmod>
-  </url><url>
-    <loc>https://www.whaliam.com/about/</loc>
-    <lastmod>2026-07-12T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://www.whaliam.com/categories/</loc>
   </url>

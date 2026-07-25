@@ -12,9 +12,30 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Tue, 21 Jul 2026 14:29:42 -0700</lastBuildDate>
+			<lastBuildDate>Sat, 25 Jul 2026 07:26:58 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Homelab</title>
+				<link>https://www.whaliam.com/tags/homelab/</link>
+				<pubDate>Sat, 25 Jul 2026 07:26:58 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/homelab/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Project-Majel</title>
+				<link>https://www.whaliam.com/tags/project-majel/</link>
+				<pubDate>Sat, 25 Jul 2026 07:26:58 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/project-majel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Search</title>
+				<link>https://www.whaliam.com/tags/search/</link>
+				<pubDate>Sat, 25 Jul 2026 07:26:58 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/search/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Book</title>
 				<link>https://www.whaliam.com/tags/book/</link>
@@ -62,13 +83,6 @@
 				<link>https://www.whaliam.com/tags/locall-llm/</link>
 				<pubDate>Sat, 11 Jul 2026 08:12:38 -0700</pubDate>
 				<guid>https://www.whaliam.com/tags/locall-llm/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Project-Majel</title>
-				<link>https://www.whaliam.com/tags/project-majel/</link>
-				<pubDate>Sat, 11 Jul 2026 08:12:38 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/project-majel/</guid>
 				<description></description>
 			</item>
 			<item>
