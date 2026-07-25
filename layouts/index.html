@@ -15,9 +15,9 @@
     <h2>Popular Tags</h2>
 
     <ul>
-    {{ range $name, $_ := $.Site.Taxonomies.tags }}
+    {{ range first 10 .Site.Taxonomies.tags.ByCount }}
     <li>
-        <a href="{{ "/tags/" | relLangURL }}{{ $name }}" class="tag-link">{{ $name }} ({{ .Count }})</a>
+        <a href="{{ .Page.RelPermalink }}" class="tag-link">{{ .Page.Title }} ({{ .Count }})</a>
     </li>
     {{ end }}
     </ul>
