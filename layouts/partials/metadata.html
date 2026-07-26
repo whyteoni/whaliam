@@ -1,0 +1,23 @@
+{{ if .Params.created }}
+<p>created: {{ .Params.date }}</p>
+{{ end }}
+
+{{ if .Params.modified }}
+<p>updated: {{ .Params.modified }}</p>
+{{ end }}
+
+{{ if .Params.medium }}
+<p>medium: <a href="/mediums/{{ .Params.medium }}">{{ .Params.medium }}</a></p>
+{{ end }}
+
+{{ if .Params.tags }}
+<p>tags: [{{ range $index, $t := .Params.tags }}{{ if not (eq $index 0) }}{{ printf ", " }}{{ end }}<a href="/tags/{{ $t }}">{{ $t }}</a>{{ end }}]</p>
+{{ end }}
+
+{{ if .Params.collections }}
+<p>collections: [{{ range $index, $t := .Params.collections }}{{ if not (eq $index 0) }}{{ printf ", " }}{{ end }}<a href="/collections/{{ $t }}">{{ $t }}</a>{{ end }}]</p>
+{{ end }}
+
+
+
+

@@ -4,6 +4,7 @@ draft = false
 title = 'Using SearXNG as You Default Search'
 tags = ["search","homelab","project-majel"]
 category = "project"
+toc = true
 +++
 
 [SearXNG](https://github.com/searxng/searxng) is a meta search engine that you run locally. It provides very fast results without a lot of fluff and tracking. You can fine-tune it to only use certain sources, search certain material types, skip social media, or even exclusively search social media. It is a fantastic tool and something anyone with the inclination and resources should consider setting up.
