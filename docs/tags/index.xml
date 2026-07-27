@@ -12,9 +12,30 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Sat, 25 Jul 2026 13:52:00 -0700</lastBuildDate>
+			<lastBuildDate>Mon, 27 Jul 2026 09:30:03 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Anime</title>
+				<link>https://www.whaliam.com/tags/anime/</link>
+				<pubDate>Mon, 27 Jul 2026 09:30:03 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/anime/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cyberpunk</title>
+				<link>https://www.whaliam.com/tags/cyberpunk/</link>
+				<pubDate>Mon, 27 Jul 2026 09:30:03 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/cyberpunk/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sci-Fi</title>
+				<link>https://www.whaliam.com/tags/sci-fi/</link>
+				<pubDate>Mon, 27 Jul 2026 09:30:03 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/sci-fi/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Homelab</title>
 				<link>https://www.whaliam.com/tags/homelab/</link>
@@ -93,24 +114,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Anime</title>
-				<link>https://www.whaliam.com/tags/anime/</link>
-				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/anime/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Remake</title>
 				<link>https://www.whaliam.com/tags/remake/</link>
 				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
 				<guid>https://www.whaliam.com/tags/remake/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sci-Fi</title>
-				<link>https://www.whaliam.com/tags/sci-fi/</link>
-				<pubDate>Fri, 10 Jul 2026 12:55:11 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/sci-fi/</guid>
 				<description></description>
 			</item>
 	</channel>

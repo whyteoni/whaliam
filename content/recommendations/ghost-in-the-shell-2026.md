@@ -4,9 +4,13 @@ modified = '2026-07-25T13:52:00-07:00'
 draft = false
 title = 'Ghost in the Shell (2026)'
 tags = ["sci-fi","anime","remake","amazon-prime"]
-medium = "video"
+medium = 'video'
 collections = ["ghost-in-the-shell"]
 category = "recommendation"
+links = {
+    'Amazon VOD' = 'https://www.amazon.com/gp/video/detail/B0GZD2WNFF',
+    'AniDB' = 'https://anidb.net/anime/18652',
+    }
 +++
 
 Oh man, I had really high hopes from the trailer. I _had_ high hopes.

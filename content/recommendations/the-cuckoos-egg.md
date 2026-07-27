@@ -6,6 +6,11 @@ tags = ["clifford-stoll","book","cyber-security","cybersec-reading-list"]
 medium = "book"
 collections = []
 category = "recommendation"
+links = {
+    "Goodreads" = "https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg",
+    "Amazon" = "https://a.co/d/0gQh2Q21",
+    "Audible" = "https://www.audible.com/pd/The-Cuckoos-Egg-Audiobook/1977300472",
+}
 +++
 
 _The Cuckoo's Egg_ is the autobiographical account of an astronomy student who's grant ran out so he got a job in the university's IT department. A 75 cent discrepancy in the accounting software would lead him down a rabbit hole of hackers, military and national security systems, and academia. This all being told from the author's experiences it is a fascinating tale of the very real world of cyber security in the twilight years of the Cold War.
@@ -16,10 +21,8 @@ A lot of the book stood out to me for how timeless the challenges of operational
 
 ## Recommendation
 
-If you want to learn about the history of cyber security, or want to get into it, or are just plain curious about the subject this is a great book. The #HanoverHackers are also covered in Stephen Levy's book _Hackers: Heroes of the Computer Revolution_, albeit from a more nuanced and removed perspective.
+If you want to learn about the history of cyber security, or want to get into it, or are just plain curious about the subject this is a great book. The _Hanover Hackers_ are also covered in Stephen Levy's book _Hackers: Heroes of the Computer Revolution_, albeit from a more nuanced and removed perspective.
 
 ## Stats
 
 _The Cuckoo's Egg_ by Clifford Stoll. Originally published in 1989.
-
-[[Goodreads](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg)|[Amazon](https://a.co/d/0gQh2Q21)|[Audible](https://www.audible.com/pd/The-Cuckoos-Egg-Audiobook/1977300472?source_code=ASSGB149080119000H&share_location=pdp)]

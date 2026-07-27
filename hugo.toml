@@ -46,7 +46,7 @@ palette = "dracula"
   #   weight = 10
 
 [taxonomies]
-medium = "mediums"
+medium = "medium"
 tag = "tags"
 collection = "collections"
 category = "categories"

@@ -1,21 +1,43 @@
-{{ if .Params.created }}
-<p>created: {{ .Params.date }}</p>
+{{ if .Params.date }}
+	<p>created: {{ .Params.date.Format "02JAN2006" }}</p>
 {{ end }}
 
 {{ if .Params.modified }}
-<p>updated: {{ .Params.modified }}</p>
+	<p>updated: {{ .Params.modified.Format "02JAN2006" }}</p>
 {{ end }}
 
 {{ if .Params.medium }}
-<p>medium: <a href="/mediums/{{ .Params.medium }}">{{ .Params.medium }}</a></p>
+	<p>medium: <a href="/medium/{{ .Params.medium }}">{{ .Params.medium }}</a></p>
 {{ end }}
 
 {{ if .Params.tags }}
-<p>tags: [{{ range $index, $t := .Params.tags }}{{ if not (eq $index 0) }}{{ printf ", " }}{{ end }}<a href="/tags/{{ $t }}">{{ $t }}</a>{{ end }}]</p>
+	<p>tags: 
+		<ul>
+			{{ range $tag := .Params.tags }}
+				<li><a href="/tags/{{ $tag }}">{{ $tag }}</a></li>
+			{{ end }}
+		</ul>
+	</p>
 {{ end }}
 
 {{ if .Params.collections }}
-<p>collections: [{{ range $index, $t := .Params.collections }}{{ if not (eq $index 0) }}{{ printf ", " }}{{ end }}<a href="/collections/{{ $t }}">{{ $t }}</a>{{ end }}]</p>
+	<p>collections:
+		<ul>
+			{{ range $collection := .Params.collections }}
+				<li><a href="/collections/{{ $collection }}">{{ $collection }}</a></li>
+			{{ end }}
+		</ul>
+	</p>
+{{ end }}
+
+{{ if .Params.links }}
+	<p>links:
+		<ul>
+			{{ range $name, $link := .Params.links }}
+				<li><a href="{{ $link }}">{{ $name }}</a></li>
+			{{ end }}
+		</ul>
+	</p>
 {{ end }}
 
 

@@ -12,9 +12,23 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Sat, 25 Jul 2026 13:52:00 -0700</lastBuildDate>
+			<lastBuildDate>Mon, 27 Jul 2026 10:39:18 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Several Minor Things</title>
+				<link>https://www.whaliam.com/blog/1785173957-several-minor-things/</link>
+				<pubDate>Mon, 27 Jul 2026 10:39:18 -0700</pubDate>
+				<guid>https://www.whaliam.com/blog/1785173957-several-minor-things/</guid>
+				<description>&lt;p&gt;Well, I have been busy trying to get this site a bit more user friendly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;&#xA;&lt;p&gt;The headings now have a distinctive font that I thought they really needed to help them stand out a bit more. I also really like the &lt;em&gt;all caps sharpie on masking tape&lt;/em&gt; look of the font. I know it&amp;rsquo;s not for everyone, but I get to pick so here we are.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sidebar&#34;&gt;Sidebar&lt;/h2&gt;&#xA;&lt;p&gt;The sidebar now shows a lot of information like the original date of pages, last modified dates, lists of tags and links. Since I do not have any search functionality, and don&amp;rsquo;t plan to try adding one, I think it&amp;rsquo;s important to at least provide taxonomy links to help people find things.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ghost in the Shell (1995)</title>
+				<link>https://www.whaliam.com/recommendations/ghost-in-the-shell-1995/</link>
+				<pubDate>Mon, 27 Jul 2026 09:30:03 -0700</pubDate>
+				<guid>https://www.whaliam.com/recommendations/ghost-in-the-shell-1995/</guid>
+				<description>&lt;p&gt;Written before the mass adoption of the internet, before the social and technological terms we all are now comfortable with (and in many cases were born into). This is a story about a law enforcement team on the cutting edge of what the 80s thought today&amp;rsquo;s tech was going to be like. Cybernetic implants, smart tracker bullets, remote mind wipes, optical camouflage, the works. The story chronicles inter-agency turf wars played at the highest level, and the emergency of a new kind of criminal. It does this while asking deep questions about what it means to be a human, a distinct person, in a connection and increasingly synthetic world.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Using SearXNG as You Default Search</title>
 				<link>https://www.whaliam.com/projects/default-search/</link>

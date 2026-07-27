@@ -13,17 +13,18 @@
             </header>
 
             <section class="page__body">
+                {{ if .Params.draft }}
+                    <div>
+                        <h1 class="draft_notice">THIS PAGE IS IN DRAFT</h1>
+                    </div>
+                {{ end }}
                 {{- block "main" . }}{{- end }}
             </section>
 
             <section class="page__aside">
-                <div class="aside__about">
+                <div class="aside__metadata">
                     {{- partial "metadata.html" . -}}
                 </div>
-                {{/*  <hr>
-                <div class="aside__content">
-                    {{- block "aside" . }}{{- end }}
-                </div>  */}}
             </section>
 
             <footer class="page__footer">

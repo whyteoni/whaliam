@@ -12,9 +12,16 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Sun, 19 Jul 2026 10:41:05 -0700</lastBuildDate>
+			<lastBuildDate>Mon, 27 Jul 2026 10:39:18 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Several Minor Things</title>
+				<link>https://www.whaliam.com/blog/1785173957-several-minor-things/</link>
+				<pubDate>Mon, 27 Jul 2026 10:39:18 -0700</pubDate>
+				<guid>https://www.whaliam.com/blog/1785173957-several-minor-things/</guid>
+				<description>&lt;p&gt;Well, I have been busy trying to get this site a bit more user friendly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;&#xA;&lt;p&gt;The headings now have a distinctive font that I thought they really needed to help them stand out a bit more. I also really like the &lt;em&gt;all caps sharpie on masking tape&lt;/em&gt; look of the font. I know it&amp;rsquo;s not for everyone, but I get to pick so here we are.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sidebar&#34;&gt;Sidebar&lt;/h2&gt;&#xA;&lt;p&gt;The sidebar now shows a lot of information like the original date of pages, last modified dates, lists of tags and links. Since I do not have any search functionality, and don&amp;rsquo;t plan to try adding one, I think it&amp;rsquo;s important to at least provide taxonomy links to help people find things.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Cyber Security Reading List</title>
 				<link>https://www.whaliam.com/blog/1784482865-cyber-security-reading-list/</link>
