@@ -16,10 +16,10 @@
 		
 			<atom:link href="https://www.whaliam.com/tags/search/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Using SearXNG as You Default Search</title>
-				<link>https://www.whaliam.com/projects/default-search/</link>
+				<title>Using SearXNG as Your Default Search</title>
+				<link>https://www.whaliam.com/projects/searxng-default-search/</link>
 				<pubDate>Sat, 25 Jul 2026 07:26:58 -0700</pubDate>
-				<guid>https://www.whaliam.com/projects/default-search/</guid>
+				<guid>https://www.whaliam.com/projects/searxng-default-search/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/searxng/searxng&#34;&gt;SearXNG&lt;/a&gt; is a meta search engine that you run locally. It provides very fast results without a lot of fluff and tracking. You can fine-tune it to only use certain sources, search certain material types, skip social media, or even exclusively search social media. It is a fantastic tool and something anyone with the inclination and resources should consider setting up.&lt;/p&gt;&#xA;&lt;h2 id=&#34;setting-up-the-service&#34;&gt;Setting up the Service&lt;/h2&gt;&#xA;&lt;p&gt;My setup is a lot more complicated than it absolutely has to be. But, you wouldn&amp;rsquo;t be here if you wanted the generic guide.&lt;/p&gt;</description>
 			</item>
 	</channel>

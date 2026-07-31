@@ -266,3 +266,8 @@ img {
 .bg-base0D { background-color: var(--base0D); }
 .bg-base0E { background-color: var(--base0E); }
 .bg-base0F { background-color: var(--base0F); }
+
+span.abrv__blog:before              { content: "[b--]"; }
+span.abrv__projects:before          { content: "[-p-]"; }
+span.abrv__recommendations:before    { content: "[--r]"; }
+

@@ -1,7 +1,7 @@
 +++
 date = '2026-07-25T07:26:58-07:00'
 draft = false
-title = 'Using SearXNG as You Default Search'
+title = 'Using SearXNG as Your Default Search'
 tags = ["search","homelab","project-majel"]
 category = "project"
 toc = true

@@ -50,6 +50,7 @@ medium = "medium"
 tag = "tags"
 collection = "collections"
 category = "categories"
+creator = "creators"
 
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]

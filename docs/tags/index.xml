@@ -58,20 +58,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Book</title>
-				<link>https://www.whaliam.com/tags/book/</link>
-				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/book/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Clifford-Stoll</title>
-				<link>https://www.whaliam.com/tags/clifford-stoll/</link>
-				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/clifford-stoll/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Cyber-Security</title>
 				<link>https://www.whaliam.com/tags/cyber-security/</link>
 				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
@@ -79,10 +65,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Cybersec-Reading-List</title>
-				<link>https://www.whaliam.com/tags/cybersec-reading-list/</link>
+				<title>Hanover-Hackers</title>
+				<link>https://www.whaliam.com/tags/hanover-hackers/</link>
 				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/cybersec-reading-list/</guid>
+				<guid>https://www.whaliam.com/tags/hanover-hackers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Non-Fiction</title>
+				<link>https://www.whaliam.com/tags/non-fiction/</link>
+				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/non-fiction/</guid>
 				<description></description>
 			</item>
 			<item>

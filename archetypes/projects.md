@@ -4,4 +4,5 @@ draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 tags = [""]
 category = "project"
+links = {}
 +++

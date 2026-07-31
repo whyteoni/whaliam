@@ -4,9 +4,9 @@
     <ul>
     {{ range first 10 (sort .Site.RegularPages "Date" "desc") }}
     <li>
-        <span>[{{ .Section }}]</span>
+        <small>{{ .Date.Format "02JAN2006" }}</small>
+        <span class="abrv__{{ .Section }}"/>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <small>{{ .Date.Format "2006-01-02" }}</small>
     </li>
     {{ end }}
     </ul>

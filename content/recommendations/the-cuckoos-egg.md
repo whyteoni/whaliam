@@ -2,15 +2,17 @@
 date = '2026-07-21T14:29:42-07:00'
 draft = false
 title = 'The Cuckoos Egg'
-tags = ["clifford-stoll","book","cyber-security","cybersec-reading-list"]
+tags = ["cyber-security","non-fiction","hanover-hackers"]
 medium = "book"
-collections = []
+collections = ["cybersec-reading-list"]
 category = "recommendation"
 links = {
-    "Goodreads" = "https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg",
     "Amazon" = "https://a.co/d/0gQh2Q21",
     "Audible" = "https://www.audible.com/pd/The-Cuckoos-Egg-Audiobook/1977300472",
+    "Goodreads" = "https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg",
 }
+publication_year = "1989"
+creators = ["Clifford Stoll"]
 +++
 
 _The Cuckoo's Egg_ is the autobiographical account of an astronomy student who's grant ran out so he got a job in the university's IT department. A 75 cent discrepancy in the accounting software would lead him down a rabbit hole of hackers, military and national security systems, and academia. This all being told from the author's experiences it is a fascinating tale of the very real world of cyber security in the twilight years of the Cold War.
