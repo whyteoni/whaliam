@@ -1,9 +1,15 @@
-{{ if .Params.date }}
-	<p>created: {{ .Params.date.Format "02JAN2006" }}</p>
+{{ if .Params.publication_year }}
+	<p>published: {{ .Params.publication_year }}</p>
 {{ end }}
 
-{{ if .Params.modified }}
-	<p>updated: {{ .Params.modified.Format "02JAN2006" }}</p>
+{{ if .Params.creators }}
+	<p>created by:
+		<ul>
+			{{ range $creator := .Params.creators }}
+				<li><a href="/creators/{{ $creator | urlize }}">{{ $creator }}</a></li>
+			{{ end }}
+		</ul>
+	</p>
 {{ end }}
 
 {{ if .Params.medium }}

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Cyber-Security on Whaliams Wall</title>
-		<link>https://www.whaliam.com/tags/cyber-security/</link>
-		<description>Recent content in Cyber-Security on Whaliams Wall</description>
+		<title>Mixed on Whaliams Wall</title>
+		<link>https://www.whaliam.com/medium/mixed/</link>
+		<description>Recent content in Mixed on Whaliams Wall</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -14,27 +14,13 @@
 		
 			<lastBuildDate>Sat, 01 Aug 2026 07:50:34 -0700</lastBuildDate>
 		
-			<atom:link href="https://www.whaliam.com/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.whaliam.com/medium/mixed/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Cybersecurity Reading List</title>
 				<link>https://www.whaliam.com/recommendations/cybersecurity-reading-list/</link>
 				<pubDate>Sat, 01 Aug 2026 07:50:34 -0700</pubDate>
 				<guid>https://www.whaliam.com/recommendations/cybersecurity-reading-list/</guid>
 				<description>&lt;p&gt;I hope to create dedicated pages for the most notable of entries on this list, but for now just need a place to quickly jot them all down.&lt;/p&gt;&#xA;&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;&#xA;&lt;p&gt;While I tend to prefer nonfiction titles for this genre, there are some notable works of fiction that I feel are good reads for interested parties to be familiar with as well.&lt;/p&gt;&#xA;&lt;h3 id=&#34;nonfiction&#34;&gt;Nonfiction&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.whaliam.com/recommendations/hackers-1984/&#34;&gt;Hackers: Heroes of the Computer Revolution&lt;/a&gt; by Steven Levy, 1984. A series of stories about the people who created modern computing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.whaliam.com/recommendations/the-cuckoos-egg-1989&#34;&gt;The Cuckoo&amp;rsquo;s Egg&lt;/a&gt; by Clifford Stoll, 1989. A junior university employee&amp;rsquo;s fall down the rabbit hole of international hacking, law enforcement, national security, and cyberspace in the twilight years of the Cold War.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.whaliam.com/recommendations/cyberpunk-1992&#34;&gt;Cyberpunk: Outlaws and Hackers on the Computer Frontier&lt;/a&gt; by Katie Hafner and John Markoff, 1992. From the original &lt;em&gt;Dark Side Hacker&lt;/em&gt;, Kevin Mitnick, to the &lt;em&gt;Hanover Hackers&lt;/em&gt; that Clifford Stoll battles in &lt;a href=&#34;https://www.whaliam.com/recommendations/the-cuckoos-egg&#34;&gt;The Cuckoo&amp;rsquo;s Egg&lt;/a&gt;, this book covers some of the most notable hackers of the time.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.whaliam.com/recommendations/crypto-2001&#34;&gt;Crypto: How the Code Rebels Beat the Government - Saving privacy in the Digital Age&lt;/a&gt; by Steven Levy, 2001. Very much a follow up to his earlier work, this time zeroing in on cryptography and privacy rights.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;fiction&#34;&gt;Fiction&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.whaliam.com/recommendations/cryptonomicon-1999&#34;&gt;Cryptonomicon&lt;/a&gt; by Neal Stephenson, 1999. A head of its time, this book envisions what we would now call &lt;em&gt;Stable Coin&lt;/em&gt;, and looks at the practical application of cryptography following two intertwined stories spanning WW2 and the 1990s. One of my all time favorite books, and a must read.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;movies&#34;&gt;Movies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.whaliam.com/recommendations/hackers-1995&#34;&gt;Hackers&lt;/a&gt; staring Jonny Lee Miller, Angelina Jolie, and Fisher Stevens, 1995. A fictional tale of a young man transplanted from Seattle to New York who finds friends in the local hacker scene, while trying to escape his past. While the story is fictional, everything else is based of the lives, actions, and prosecutions of New York City hackers in 1990s.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;online-media&#34;&gt;Online Media&lt;/h2&gt;&#xA;&lt;p&gt;Podcast, YouTube channels, blogs, and dating profiles. Anything that doesn&amp;rsquo;t fit in the above categories that you primarily access online will end up here.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Hackers - Heroes of the Computer Revolution</title>
-				<link>https://www.whaliam.com/recommendations/hackers-1984/</link>
-				<pubDate>Tue, 28 Jul 2026 07:17:04 -0700</pubDate>
-				<guid>https://www.whaliam.com/recommendations/hackers-1984/</guid>
-				<description>&lt;p&gt;An essential anthology for anyone wanting to learn about the origins of modern computing. Originally published in 1984, this book chronicles multiple groups dating back to the 1950s, the people who forged the original profile of &lt;em&gt;the hacker&lt;/em&gt;. This book focuses on creators of early personal computing kits (Steve Wozniak and Lee Felsenstein), Ted Hoff, the designer of the legendary Intel 4004 microprocessor, and Stewart Brand, the publisher of &lt;em&gt;The Whole Earth Catalog&lt;/em&gt;.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Cuckoos Egg</title>
-				<link>https://www.whaliam.com/recommendations/the-cuckoos-egg-1989/</link>
-				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/recommendations/the-cuckoos-egg-1989/</guid>
-				<description>&lt;p&gt;&lt;em&gt;The Cuckoo&amp;rsquo;s Egg&lt;/em&gt; is the autobiographical account of an astronomy student who&amp;rsquo;s grant ran out so he got a job in the university&amp;rsquo;s IT department. A 75 cent discrepancy in the accounting software would lead him down a rabbit hole of hackers, military and national security systems, and academia. This all being told from the author&amp;rsquo;s experiences it is a fascinating tale of the very real world of cyber security in the twilight years of the Cold War.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

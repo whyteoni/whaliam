@@ -10,12 +10,24 @@ body {
 }
 
 /* DRAFT NOTICE */
-
 h1.draft_notice {
     color: black;
     text-align: center;
     background-color: orangered;
     margin: 1rem;
+}
+
+/* GRID for tag lists */
+.grid_list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+/* Grid for post metadata */
+.post_metadata {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    color: var(--muted)
 }
 
 /* Headings */
@@ -28,6 +40,7 @@ h6 {
     font-family: "Permanent Marker", cursive;
     font-size: 1.25rem;
     margin: 1.5rem 0 0 0;
+    /* background-color: blueviolet; */
 }
 
 h1+h2,
@@ -267,7 +280,16 @@ img {
 .bg-base0E { background-color: var(--base0E); }
 .bg-base0F { background-color: var(--base0F); }
 
-span.abrv__blog:before              { content: "[b--]"; }
-span.abrv__projects:before          { content: "[-p-]"; }
-span.abrv__recommendations:before    { content: "[--r]"; }
+span.abrv__blog:before {
+    content: "[b--]";
+    color: var(--muted); 
+}
+span.abrv__projects:before {
+    content: "[-p-]";
+    color: var(--muted);
+}
+span.abrv__recommendations:before {
+    content: "[--r]";
+    color: var(--muted);
+}
 

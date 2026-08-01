@@ -1,5 +1,6 @@
 +++
 date = '2026-07-21T14:29:42-07:00'
+modified = '2026-08-01T07:25:00-07:00'
 draft = false
 title = 'The Cuckoos Egg'
 tags = ["cyber-security","non-fiction","hanover-hackers"]
@@ -23,8 +24,4 @@ A lot of the book stood out to me for how timeless the challenges of operational
 
 ## Recommendation
 
-If you want to learn about the history of cyber security, or want to get into it, or are just plain curious about the subject this is a great book. The _Hanover Hackers_ are also covered in Stephen Levy's book _Hackers: Heroes of the Computer Revolution_, albeit from a more nuanced and removed perspective.
-
-## Stats
-
-_The Cuckoo's Egg_ by Clifford Stoll. Originally published in 1989.
+If you want to learn about the history of cyber security, or want to get into it, or are just plain curious about the subject this is a great book. It dives into the non-technical aspects of the career like shifting corporate and legal policies, disinterested user bases, and the eternal vigilance required to stand against ne'er-do-wells. The rise of globalization coupled with regulatory schemes such GDPR (General Data Protection Regulation) have only made jurisdictional and compliance matters harder for IT workers of all stripes. Even after a steady march forward for easier and easier to use authentication, there are still many places where you end up falling back on a simple password. These transactions have all the problems surrounding _single factor, known secrets_ (in NIST parlance) that we can see present as far back as in this book. SPOILERS: In the final scenes of _The Wire_ you see where the old people all move on, and new ones step up to fill their roles. You see that in the end nothing really changed. _The Cuckoo's Egg_ is the _before_ picture for a product that doesn't work. While that can be deeply depressing at times, it is also the reason I can pay my mortgage, as no matter far we come we will always need people to fix the broken bit, smooth the sharp corners, and reset the email password on a holiday weekend.

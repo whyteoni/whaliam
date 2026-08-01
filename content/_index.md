@@ -3,6 +3,8 @@ title = "Whaliam's Wall"
 category = "index"
 +++
 
+## Welcome
+
 This is a collections of thought, reviews, code snippets, guides, ramblings, ravings, and recommendations from the mind of Whaliam Wallace.
 
 ## Who/What Is a Whaliam Wallace?

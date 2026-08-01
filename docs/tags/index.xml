@@ -12,9 +12,37 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Mon, 27 Jul 2026 09:30:03 -0700</lastBuildDate>
+			<lastBuildDate>Sat, 01 Aug 2026 07:50:34 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cyber-Security</title>
+				<link>https://www.whaliam.com/tags/cyber-security/</link>
+				<pubDate>Sat, 01 Aug 2026 07:50:34 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/cyber-security/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reading-List</title>
+				<link>https://www.whaliam.com/tags/reading-list/</link>
+				<pubDate>Sat, 01 Aug 2026 07:50:34 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/reading-list/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>History</title>
+				<link>https://www.whaliam.com/tags/history/</link>
+				<pubDate>Tue, 28 Jul 2026 07:17:04 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/history/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Non-Fiction</title>
+				<link>https://www.whaliam.com/tags/non-fiction/</link>
+				<pubDate>Tue, 28 Jul 2026 07:17:04 -0700</pubDate>
+				<guid>https://www.whaliam.com/tags/non-fiction/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Anime</title>
 				<link>https://www.whaliam.com/tags/anime/</link>
@@ -58,24 +86,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Cyber-Security</title>
-				<link>https://www.whaliam.com/tags/cyber-security/</link>
-				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/cyber-security/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Hanover-Hackers</title>
 				<link>https://www.whaliam.com/tags/hanover-hackers/</link>
 				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
 				<guid>https://www.whaliam.com/tags/hanover-hackers/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Non-Fiction</title>
-				<link>https://www.whaliam.com/tags/non-fiction/</link>
-				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/tags/non-fiction/</guid>
 				<description></description>
 			</item>
 			<item>

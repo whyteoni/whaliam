@@ -2,6 +2,16 @@
     <header class="content__header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
+    <div class="post_metadata">
+        {{ if .Params.date }}
+            <div>created: {{ .Params.date.Format "2006-01-02" }}</div>
+        {{ end }}
+
+        {{ if .Params.modified }}
+            <div>updated: {{ .Params.modified.Format "2006-01-02" }}</div>
+        {{ end }}
+    </div>
+    <hr/>
     <div class="content__body">
         {{ .Content }}
     </div>

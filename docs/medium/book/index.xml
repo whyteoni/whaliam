@@ -12,14 +12,21 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Tue, 21 Jul 2026 14:29:42 -0700</lastBuildDate>
+			<lastBuildDate>Sat, 01 Aug 2026 07:25:00 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/medium/book/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Hackers - Heroes of the Computer Revolution</title>
+				<link>https://www.whaliam.com/recommendations/hackers-1984/</link>
+				<pubDate>Tue, 28 Jul 2026 07:17:04 -0700</pubDate>
+				<guid>https://www.whaliam.com/recommendations/hackers-1984/</guid>
+				<description>&lt;p&gt;An essential anthology for anyone wanting to learn about the origins of modern computing. Originally published in 1984, this book chronicles multiple groups dating back to the 1950s, the people who forged the original profile of &lt;em&gt;the hacker&lt;/em&gt;. This book focuses on creators of early personal computing kits (Steve Wozniak and Lee Felsenstein), Ted Hoff, the designer of the legendary Intel 4004 microprocessor, and Stewart Brand, the publisher of &lt;em&gt;The Whole Earth Catalog&lt;/em&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Cuckoos Egg</title>
-				<link>https://www.whaliam.com/recommendations/the-cuckoos-egg/</link>
+				<link>https://www.whaliam.com/recommendations/the-cuckoos-egg-1989/</link>
 				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/recommendations/the-cuckoos-egg/</guid>
+				<guid>https://www.whaliam.com/recommendations/the-cuckoos-egg-1989/</guid>
 				<description>&lt;p&gt;&lt;em&gt;The Cuckoo&amp;rsquo;s Egg&lt;/em&gt; is the autobiographical account of an astronomy student who&amp;rsquo;s grant ran out so he got a job in the university&amp;rsquo;s IT department. A 75 cent discrepancy in the accounting software would lead him down a rabbit hole of hackers, military and national security systems, and academia. This all being told from the author&amp;rsquo;s experiences it is a fascinating tale of the very real world of cyber security in the twilight years of the Cold War.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -4,7 +4,7 @@
     <ul>
     {{ range first 10 (sort .Site.RegularPages "Date" "desc") }}
     <li>
-        <small>{{ .Date.Format "02JAN2006" }}</small>
+        <small>{{ .Date.Format "2006-01-02" }}</small>
         <span class="abrv__{{ .Section }}"/>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </li>
@@ -13,13 +13,11 @@
 
     <h2>Popular Tags</h2>
 
-    <ul>
-    {{ range first 10 .Site.Taxonomies.tags.ByCount }}
-    <li>
-        <a href="{{ .Page.RelPermalink }}" class="tag-link">{{ .Page.Title }} ({{ .Count }})</a>
-    </li>
-    {{ end }}
-    </ul>
+    <div class="grid_list">
+        {{ range first 10 .Site.Taxonomies.tags.ByCount }}
+            <div>[{{ printf "%04d" .Count }}]x <a href="{{ .Page.RelPermalink }}" class="tag-link">{{ .Page.Title }}</a></div>
+        {{ end }}
+    </div>
 
     <hr/>
 

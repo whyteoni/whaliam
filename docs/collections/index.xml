@@ -12,21 +12,21 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Mon, 27 Jul 2026 09:30:03 -0700</lastBuildDate>
+			<lastBuildDate>Sat, 01 Aug 2026 07:25:00 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/collections/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cybersec-Reading-List</title>
+				<link>https://www.whaliam.com/collections/cybersec-reading-list/</link>
+				<pubDate>Tue, 28 Jul 2026 07:17:04 -0700</pubDate>
+				<guid>https://www.whaliam.com/collections/cybersec-reading-list/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Ghost-in-the-Shell</title>
 				<link>https://www.whaliam.com/collections/ghost-in-the-shell/</link>
 				<pubDate>Mon, 27 Jul 2026 09:30:03 -0700</pubDate>
 				<guid>https://www.whaliam.com/collections/ghost-in-the-shell/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Cybersec-Reading-List</title>
-				<link>https://www.whaliam.com/collections/cybersec-reading-list/</link>
-				<pubDate>Tue, 21 Jul 2026 14:29:42 -0700</pubDate>
-				<guid>https://www.whaliam.com/collections/cybersec-reading-list/</guid>
 				<description></description>
 			</item>
 	</channel>
