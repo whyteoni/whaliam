@@ -6,7 +6,11 @@ tags = []
 medium = ""
 collections = []
 category = "recommendation"
-links = {}
+links = {
+    'Amazon' = '',
+    'Audible' = '',
+    'Goodreads' = '',
+    }
 publication_year = ""
 creators = []
 +++

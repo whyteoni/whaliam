@@ -1,7 +1,7 @@
 +++
 date = '2026-07-28T07:17:04-07:00'
 draft = false
-title = 'Hackers - Heroes of the Computer Revolution'
+title = 'Hackers: Heroes of the Computer Revolution'
 tags = ["cyber-security","non-fiction","history"]
 medium = "book"
 collections = ["cybersec-reading-list"]

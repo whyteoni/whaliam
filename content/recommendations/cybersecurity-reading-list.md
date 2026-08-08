@@ -1,6 +1,6 @@
 +++
 date = '2026-08-01T07:50:34-07:00'
-modified = '2026-08-05T13:00:00-07:00'
+modified = '2026-08-08T08:00:00-07:00'
 draft = false
 title = 'Cybersecurity Reading List'
 tags = ['cyber-security','reading-list']
@@ -20,23 +20,25 @@ While I tend to prefer nonfiction titles for this genre, there are some notable 
 
 ### Nonfiction
 
-* [Hackers: Heroes of the Computer Revolution](/recommendations/hackers-1984/) by Steven Levy, 1984. A series of stories about the people who created modern computing.
+* [Hackers: Heroes of the Computer Revolution](/recommendations/hackers-1984/) by [Steven Levy](/creators/steven-levy), 1984. A series of stories about the people who created modern computing.
 
 * [The Cuckoo's Egg](/recommendations/the-cuckoos-egg-1989) by Clifford Stoll, 1989. A junior university employee's fall down the rabbit hole of international hacking, law enforcement, national security, and cyberspace in the twilight years of the Cold War.
 
-* [Cyberpunk: Outlaws and Hackers on the Computer Frontier](/recommendations/cyberpunk-1992) by Katie Hafner and John Markoff, 1992. From the original _Dark Side Hacker_, Kevin Mitnick, to the _Hanover Hackers_ that Clifford Stoll battles in [The Cuckoo's Egg](/recommendations/the-cuckoos-egg), this book covers some of the most notable hackers of the time.
+* [Cyberpunk: Outlaws and Hackers on the Computer Frontier](/recommendations/cyberpunk-1992) by Katie Hafner and John Markoff, 1992. From the original _Dark Side Hacker_, [Kevin Mitnick](/creators/kevin-mitnick), to the _Hanover Hackers_ that Clifford Stoll battles in [The Cuckoo's Egg](/recommendations/the-cuckoos-egg), this book covers some of the most notable hackers of the time.
 
 * [Masters of Deception: The Gang That Ruled Cyberspace](/recommendations/masters-of-deception-1995) by Michelle Slatalla, Joshua Quittner, 1995. A look at a New York City hacker gang in 1990s, beyond the keyboard and into their lives.
 
-* [Crypto: How the Code Rebels Beat the Government - Saving privacy in the Digital Age](/recommendations/crypto-2001) by Steven Levy, 2001. Very much a follow up to his earlier work, this time zeroing in on cryptography and privacy rights.
+* [Crypto: How the Code Rebels Beat the Government - Saving privacy in the Digital Age](/recommendations/crypto-2001) by [Steven Levy](/creators/steven-levy), 2001. Very much a follow up to his earlier work, this time zeroing in on cryptography and privacy rights.
 
-* [Schneier on Security](/recommendations/schneier-on-security-2008) By Bruce Schneier, 2008. A collection of Schneier's previously published articles on topics like National Security, person privacy, and computer security.
+* [Schneier on Security](/recommendations/schneier-on-security-2008) By [Bruce Schneier](/creators/bruce-schneier), 2008. A collection of Schneier's previously published articles on topics like National Security, person privacy, and computer security.
 
 * [The Master Switch: The Rise and Fall of Information Empires](/recommendations/the-master-switch-2010) by Tim Wu, 2010. A historical look at communications technology in the electric age, with an eye towards the future.
 
-* [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](/recommendations/ghost-in-the-wires-2011) by Kevin Mitnick and William L. Simon, 2011. A fascinating recollection from one of the world's most notorious hackers. His story helps to show how much "hacking" is social engineering more than technical exploits. It also sheds light on issues with law enforcement and journalism practices that can all to often result in miscarriages of justice.
+* [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](/recommendations/ghost-in-the-wires-2011) by [Kevin Mitnick](/creators/kevin-mitnick) and William L. Simon, 2011. A fascinating recollection from one of the world's most notorious hackers. His story helps to show how much "hacking" is social engineering more than technical exploits. It also sheds light on issues with law enforcement and journalism practices that can all to often result in miscarriages of justice.
 
-* [Liars and Outliers: Enabling the Trust that Society Needs to Thrive](/recommendations/liars-and-outliers-2012) by Bruce Schneier, 2014. A fantastic look at security fundamentals starting from single-celled organisms up to modern societies. 
+* [Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground](/recommendations/kingpin-2011) by Kevin Poulson, 2011. A hacker's tale of crime and informing to the FBI on one of the largest carding rings of the time.
+
+* [Liars and Outliers: Enabling the Trust that Society Needs to Thrive](/recommendations/liars-and-outliers-2012) by [Bruce Schneier](/creators/bruce-schneier), 2014. A fantastic look at security fundamentals starting from single-celled organisms up to modern societies.
 
 * [This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information](/recommendations/this-machine-kills-secrets-2012) by Andy Greenberg, 2012. If the XL sized subtitle didn't make it clear already, this book is about Wikileaks. Beyond the titular website, the book explores hackers, activism, and whistlblowing and their confrontations with government.
 
@@ -44,11 +46,17 @@ While I tend to prefer nonfiction titles for this genre, there are some notable 
 
 * [Spam Nation: The Inside Story of Organized Cybercrime — from Global Epidemic to Your Front Door](/recommendations/spam-nation-2014) by Brian Krebs, 2014. This was a surprisingly fascinating topic that involves Russian gangsters, globalized manufacturing, stiffling academic research, and effective use of federal policy to address a growing issue.
 
-* [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](/recommendations/data-and-goliath-2015) by Bruce Schneier, 2015. Discusses the information asymmetry of modern life, what the risks are, and what we can do about it.
+* [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](/recommendations/data-and-goliath-2015) by [Bruce Schneier](/creators/bruce-schneier), 2015. Discusses the information asymmetry of modern life, what the risks are, and what we can do about it.
 
-* [Click Here to Kill Everybody: Security and Survival in a Hyper-connected World](/recommendations/click-here-to-kill-everybody-2019) by Bruce Schneier, 2019. Explores the world of Internet-of-Things devices from thermostats to cars, their designs, business strategies, and what it all means to public, and private, safety.
+* [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](/recommendations/the-attention-merchants-2016) by Tim Wu, 2016. A follow up to his 2010 book _The Master Switch_, this time diving into advertising.
 
-* [A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back](/recommendations/a-hackers-mind-2023) by Bruce Schneier, 2023. I love this one. What is the difference between tax evasion and tax avoidance? Several years in prison. This book looks at the _hacker mindset_ of exploiting loopholes and questions public narratives about this mentality between professions and industries.
+* [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](/recommendations/weapons-of-math-destruction-2016) by Cathy O'Neil, 2016. Are computer programs _really_ unbiased? This book looks into the then burgeoning field of machine learning (so called _AI_ now) and investigates how it is being used, and abused.
+
+* [The Perfect Weapon: How the Cyber Arms Race Set the World Afire](/recommendations/the-perfect-weapon-2018) by David E. Sanger, 2018. A look at how cyberwarfare has taken over as the largest national security threat of the modern age from a _New York Times_ chief correspondent.
+
+* [Click Here to Kill Everybody: Security and Survival in a Hyper-connected World](/recommendations/click-here-to-kill-everybody-2019) by [Bruce Schneier](/creators/bruce-schneier), 2019. Explores the world of Internet-of-Things devices from thermostats to cars, their designs, business strategies, and what it all means to public, and private, safety.
+
+* [A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back](/recommendations/a-hackers-mind-2023) by [Bruce Schneier](/creators/bruce-schneier), 2023. I love this one. What is the difference between tax evasion and tax avoidance? Several years in prison. This book looks at the _hacker mindset_ of exploiting loopholes and questions public narratives about this mentality between professions and industries.
 
 ### Fiction
 

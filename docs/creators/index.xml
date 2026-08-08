@@ -12,9 +12,23 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Sat, 01 Aug 2026 07:25:00 -0700</lastBuildDate>
+			<lastBuildDate>Sat, 08 Aug 2026 07:54:18 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/creators/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kevin Mitnick</title>
+				<link>https://www.whaliam.com/creators/kevin-mitnick/</link>
+				<pubDate>Sat, 08 Aug 2026 07:54:18 -0700</pubDate>
+				<guid>https://www.whaliam.com/creators/kevin-mitnick/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kevin Poulsen</title>
+				<link>https://www.whaliam.com/creators/kevin-poulsen/</link>
+				<pubDate>Sat, 08 Aug 2026 07:27:49 -0700</pubDate>
+				<guid>https://www.whaliam.com/creators/kevin-poulsen/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Steven Levy</title>
 				<link>https://www.whaliam.com/creators/steven-levy/</link>
