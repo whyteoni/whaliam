@@ -3,8 +3,8 @@ date = '2026-08-01T07:50:34-07:00'
 modified = '2026-08-08T08:00:00-07:00'
 draft = false
 title = 'Cybersecurity Reading List'
-tags = ['cyber-security','reading-list']
-medium = "mixed"
+tags = ['cyber-security']
+medium = "reading-list"
 collections = []
 category = "recommendation"
 links = {}
@@ -36,7 +36,7 @@ While I tend to prefer nonfiction titles for this genre, there are some notable 
 
 * [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](/recommendations/ghost-in-the-wires-2011) by [Kevin Mitnick](/creators/kevin-mitnick) and William L. Simon, 2011. A fascinating recollection from one of the world's most notorious hackers. His story helps to show how much "hacking" is social engineering more than technical exploits. It also sheds light on issues with law enforcement and journalism practices that can all to often result in miscarriages of justice.
 
-* [Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground](/recommendations/kingpin-2011) by Kevin Poulson, 2011. A hacker's tale of crime and informing to the FBI on one of the largest carding rings of the time.
+* [Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground](/recommendations/kingpin-2011) by Kevin Poulson, 2011. Written by a former black hat, _Kingpin_ tells the story of an awkward kid from Idaho who grew up to run some of the largest carding schemes of the earlier aughts.
 
 * [Liars and Outliers: Enabling the Trust that Society Needs to Thrive](/recommendations/liars-and-outliers-2012) by [Bruce Schneier](/creators/bruce-schneier), 2014. A fantastic look at security fundamentals starting from single-celled organisms up to modern societies.
 
