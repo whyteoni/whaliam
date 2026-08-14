@@ -1,6 +1,6 @@
 +++
 date = '2026-08-01T07:50:34-07:00'
-modified = '2026-08-08T08:00:00-07:00'
+modified = '2026-08-13T12:00:00-07:00'
 draft = false
 title = 'Cybersecurity Reading List'
 tags = ['cyber-security']
@@ -44,19 +44,29 @@ While I tend to prefer nonfiction titles for this genre, there are some notable 
 
 * [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](/recommendations/countdown-to-zero-day-2014) by Kim Zetter, 2014. Deep dive into what we know (as of 2014) about the Stuxnet virus that crippled Iranian nuclear reactors (for a while). Touches on national security, compromise of air gapped systems, and nuclear proliferation. This is all especially relevant given recent (_2026_ recent) developments.
 
-* [Spam Nation: The Inside Story of Organized Cybercrime — from Global Epidemic to Your Front Door](/recommendations/spam-nation-2014) by Brian Krebs, 2014. This was a surprisingly fascinating topic that involves Russian gangsters, globalized manufacturing, stiffling academic research, and effective use of federal policy to address a growing issue.
+* [Spam Nation: The Inside Story of Organized Cybercrime — from Global Epidemic to Your Front Door](/recommendations/spam-nation-2014) by Brian Krebs, 2014. This was a surprisingly fascinating topic that involves Russian gangsters, globalized manufacturing, stifling academic research, and effective use of federal policy to address a growing issue.
 
 * [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](/recommendations/data-and-goliath-2015) by [Bruce Schneier](/creators/bruce-schneier), 2015. Discusses the information asymmetry of modern life, what the risks are, and what we can do about it.
+
+* [Dark Territory: The Secret History of Cyber War](/recommendations/dark-territory-2016) by Fred Kaplan, 2016. A deeply insightful look at the US development and use of cyber weapons and defenses. This book covers Reagan's initial mandate from 1983 through to the 2014 hack of Sony's networks.
 
 * [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](/recommendations/the-attention-merchants-2016) by Tim Wu, 2016. A follow up to his 2010 book _The Master Switch_, this time diving into advertising.
 
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](/recommendations/weapons-of-math-destruction-2016) by Cathy O'Neil, 2016. Are computer programs _really_ unbiased? This book looks into the then burgeoning field of machine learning (so called _AI_ now) and investigates how it is being used, and abused.
 
-* [The Perfect Weapon: How the Cyber Arms Race Set the World Afire](/recommendations/the-perfect-weapon-2018) by David E. Sanger, 2018. A look at how cyberwarfare has taken over as the largest national security threat of the modern age from a _New York Times_ chief correspondent.
+* [The Perfect Weapon: How the Cyber Arms Race Set the World Afire](/recommendations/the-perfect-weapon-2018) by David E. Sanger, 2018. A look at how cyber warfare has taken over as the largest national security threat of the modern age from a _New York Times_ chief correspondent.
 
 * [Click Here to Kill Everybody: Security and Survival in a Hyper-connected World](/recommendations/click-here-to-kill-everybody-2019) by [Bruce Schneier](/creators/bruce-schneier), 2019. Explores the world of Internet-of-Things devices from thermostats to cars, their designs, business strategies, and what it all means to public, and private, safety.
 
+* [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](/recommendations/sandworm-2019) by Andy Greenberg, 2019. Russian hackers, NotPetya and the cyber attacks on Ukrainian infrastructure in 2014 and 2017.
+
+* [This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](/recommendations/this-is-how-they-tell-me-the-world-ends-2021) by Nicole Perloth, 2021. A look into the shadowy world of exploitation market places.
+
+* [Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency](/recommendations/tracers-in-the-dark-2022) by Andy Greenberg, 2022. A harrowing series of stories about modern cyber and crypto crime, the law enforcement agencies and officer that are tasked to deal with them (and sometimes become the criminals themselves). The final story in this anthology touches on some of the darkest corners unimaginable to most people.
+
 * [A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back](/recommendations/a-hackers-mind-2023) by [Bruce Schneier](/creators/bruce-schneier), 2023. I love this one. What is the difference between tax evasion and tax avoidance? Several years in prison. This book looks at the _hacker mindset_ of exploiting loopholes and questions public narratives about this mentality between professions and industries.
+
+* [Dark Wire: The Incredible True Story of the Largest Sting Operation Ever](/recommendations/dark-wire-2024) by Joseph Cox, 2024. What happens when the FBI runs the largest global cellphone company dedicated to criminals?
 
 ### Fiction
 
@@ -72,17 +82,19 @@ Podcast, YouTube channels, blogs, and dating profiles. Anything that doesn't fit
 
 ### Podcasts
 
-* [Black Hills Information Security](https://bhispodcasts.transistor.fm/) Information security professionals discussing the week's news stories.
+* [Black Hills Information Security](https://bhispodcasts.transistor.fm/): Information security professionals discussing the week's news stories.
+
+* [Darknet Diaries](https://darknetdiaries.com/): A collection of interviews with the threat hunters, penetration testers, blue team security professionals, journalists, victims, and perpetrators of cybercrime. Each episode explores another dark alley in the murkier places online.
 
 ## YouTube Channels
 
-* [Fireship](https://www.youtube.com/@Fireship) Code tutorials and tech news with ample snark and 2020s era editing.
+* [Fireship](https://www.youtube.com/@Fireship): Code tutorials and tech news with ample snark and 2020s era editing.
 
-* [Linus Tech Tips](https://www.youtube.com/@LinusTechTips) A grab bag of content that spans topics and the last 20+ years. While perhaps not the most directly useful for seasoned pros, the channel offers a lot of quick explainer videos that are well produced and easy to digest when sent to less tech savvy friends and family.
+* [Linus Tech Tips](https://www.youtube.com/@LinusTechTips): A grab bag of content that spans topics and the last 20+ years. While perhaps not the most directly useful for seasoned pros, the channel offers a lot of quick explainer videos that are well produced and easy to digest when sent to less tech savvy friends and family.
 
-* [Low Level](https://www.youtube.com/@LowLevelTV) Breakdowns of all the latest vulnerabilities from a researcher with 10+ years experience.
+* [Low Level](https://www.youtube.com/@LowLevelTV): Breakdowns of all the latest vulnerabilities from a researcher with 10+ years experience.
 
-* [You Suck at Programming](https://www.youtube.com/@yousuckatprogramming) Primarily a bash coding channel, but shows some very low-level *nix workings.
+* [You Suck at Programming](https://www.youtube.com/@yousuckatprogramming): Primarily a bash coding channel, but shows some very low-level *nix workings.
 
 ## Websites/Blogs
 
