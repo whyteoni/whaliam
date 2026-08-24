@@ -1,6 +1,6 @@
 +++
 date = '2026-08-01T07:50:34-07:00'
-modified = '2026-08-13T12:00:00-07:00'
+modified = '2026-08-23T12:00:00-07:00'
 draft = false
 title = 'Cybersecurity Reading List'
 tags = ['cyber-security']
@@ -79,6 +79,16 @@ While I tend to prefer nonfiction titles for this genre, there are some notable 
 ## Online Media
 
 Podcast, YouTube channels, blogs, and dating profiles. Anything that doesn't fit in the above categories that you primarily access online will end up here.
+
+### The Great Courses
+
+Though I consume this material primarily through Audible I think it deserves its own section here. Each of _The Great Courses_ is presented as a university level lecture series.
+
+* [Thinking about Cybersecurity: From Cyber Crime to Cyber Warfare](https://shop.thegreatcourses.com/thinking-about-cybersecurity-from-cyber-crime-to-cyber-warfare) by Paul Rosenzweig, 2013.
+
+* [The Surveillance State: Big Data, Freedom, and You](https://shop.thegreatcourses.com/the-surveillance-state-big-data-freedom-and-you) by Paul Rosenzweig, 2016.
+
+* [Taking Control of Your Personal Data](https://shop.thegreatcourses.com/taking-control-of-your-personal-data) by Jennifer Golbeck, 2020.
 
 ### Podcasts
 
