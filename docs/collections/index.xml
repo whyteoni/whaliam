@@ -12,9 +12,16 @@
 			<copyright>(C) 2026, All Rights Reserved</copyright>
 		
 		
-			<lastBuildDate>Sat, 08 Aug 2026 07:54:18 -0700</lastBuildDate>
+			<lastBuildDate>Tue, 22 Sep 2026 06:00:00 -0700</lastBuildDate>
 		
 			<atom:link href="https://www.whaliam.com/collections/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Honorverse</title>
+				<link>https://www.whaliam.com/collections/honorverse/</link>
+				<pubDate>Tue, 22 Sep 2026 06:00:00 -0700</pubDate>
+				<guid>https://www.whaliam.com/collections/honorverse/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Cybersec-Reading-List</title>
 				<link>https://www.whaliam.com/collections/cybersec-reading-list/</link>
